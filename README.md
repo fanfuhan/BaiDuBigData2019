@@ -19,3 +19,8 @@ keras ==> 2.2.4
 #### 代码结构
 
 ![](http://ww1.sinaimg.cn/large/e52819eagy1g3muzt8wyij20m00cy760.jpg)
+
+#### 使用步骤
+1. 自行从网站下载好数据
+2. 运行`preprocess/process.py`，预处理数据
+3. 运行`runs/main.py`训练、评估、预测模型
