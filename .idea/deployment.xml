@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="jht">
+    <serverData>
+      <paths name="LiZhongYu@202.117.21.126:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/LiZhongYu/data/jht/BaiDuBigData2019" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jht">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/BaiDuBigData2019" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/origin_data" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
